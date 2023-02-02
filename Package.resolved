@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "mdcomponent",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Faerae-AIT/MDComponent",
+      "state" : {
+        "branch" : "develop",
+        "revision" : "0bc98f0a061e7ec70d60dbbc0df1949c07a472a3"
+      }
+    }
+  ],
+  "version" : 2
+}
