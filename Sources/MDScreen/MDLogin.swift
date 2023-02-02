@@ -9,6 +9,7 @@ import SwiftUI
 import MDComponent
 
 public struct MDLogin: View {
+    public init() {}
     public var body: some View {
         VStack {
             MDButton()
